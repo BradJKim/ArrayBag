@@ -1,5 +1,5 @@
 # 2400 Data Structures and Algorithms: Bag Data Structure
-Completed: 3/8/23 
+Completed: 3/8/23, 
 Uploaded to github: 11/18/23
 
 Implementation for ArrayBag and LinkedListBag that holds multiple data values in a Bag data structure with either an Array or a Linked List (respectfully).
